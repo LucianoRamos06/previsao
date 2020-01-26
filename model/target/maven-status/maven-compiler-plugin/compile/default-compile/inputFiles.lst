@@ -1,0 +1,14 @@
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/entity/CidadeEntity.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/dto/openweathermap/CityOpenWeatherMapDTO.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/dto/ExceptionDTO.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/exception/CidadeNaoEncontradaException.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/generic/GenericRequest.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/dto/AbstractDTO.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/exception/generic/EntityNaoEncontradaException.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/dto/openweathermap/WeatherOpenWeatherMapDTO.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/dto/CidadeDTO.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/exception/generic/EntityInvalidaException.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/entity/AbstractEntity.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/exception/CidadeInvalidaException.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/dto/openweathermap/OpenWeatherMapDTO.java
+/home/luciano/Documentos/previsao/model/src/main/java/br/com/previsao/model/converter/CidadeConverter.java

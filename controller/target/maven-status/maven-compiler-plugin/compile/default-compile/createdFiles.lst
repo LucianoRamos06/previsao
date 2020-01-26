@@ -1,0 +1,7 @@
+br/com/previsao/configuration/WebConfig.class
+br/com/previsao/ControllerApplication.class
+br/com/previsao/configuration/ApplicationConfiguration.class
+br/com/previsao/controller/ICrudController.class
+br/com/previsao/controller/advice/GlobalHandlerException.class
+br/com/previsao/controller/CidadeController.class
+br/com/previsao/configuration/SwaggerConfiguration.class

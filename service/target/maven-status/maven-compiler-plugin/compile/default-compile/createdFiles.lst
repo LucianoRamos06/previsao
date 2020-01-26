@@ -1,0 +1,3 @@
+br/com/previsao/impl/OpenWeatherMapImpl.class
+br/com/previsao/service/ServiceAbstract.class
+br/com/previsao/service/CidadeService.class
