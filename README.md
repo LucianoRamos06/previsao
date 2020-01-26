@@ -1,8 +1,6 @@
 # Aplicativo de Previsão do Tempo
 Sistema que faz a previsão do tempo por cidade. Essa aplicação permite buscar cidades pelo nome e código do país. 
 
-Com isso a mesma irá fazer uma c
-
 
 ### Arquitetura back-end
 
@@ -22,7 +20,7 @@ No back-end estão se usando as tecnologias:
 * PostgresSQL
 * Docker
 * Flyway
-* Swagger
+* Swagger http://localhost:8081/api/swagger-ui.html
 
 
 ### Arquitetura front-end
