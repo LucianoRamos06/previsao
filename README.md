@@ -82,3 +82,19 @@ OBS: Se atentar em ter o maven instalado e também do controle de permissões.
 
 
 ### Excucao front-end
+
+Para executar o front-end da aplicação basta entrar na pasta `web` da aplicação, esta pasta contem a aplicação front-end em agular.
+
+Entre em: 
+
+>  cd web/previsao-web/
+
+Execute:
+
+> npm install
+
+Execute: 
+
+> npm start
+
+Obs: é necesário do node instalado.
